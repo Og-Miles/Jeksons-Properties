@@ -16,11 +16,11 @@ h3{
 
 }
 .second .image2{
-    width: 813px;
+    width: 844px;
     height: 479px;
     position: absolute;
-    top: 2218px;
-    left: 566px;
+    top: 2273px;
+    left: 471px;
 
 }
 .second .image3{
@@ -81,7 +81,7 @@ header{
     justify-content: space-evenly;
     border-radius: 8px;
     margin: 10px 60px;
-    margin-left: 146px;
+    margin-left: 71px;
     
 }
 .logo{
